@@ -1,0 +1,20 @@
+{
+    "name": "vsev92/hexlet-test",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Vsevolod Petrov",
+            "email": "vsev92@mail.ru"
+        }
+    ],
+    "require": {
+        "webmozart/assert": "^1.11"
+    },
+        "autoload": {
+        "files": [
+                    "src/StringUtils.php"
+
+       ]    
+    }
+}
